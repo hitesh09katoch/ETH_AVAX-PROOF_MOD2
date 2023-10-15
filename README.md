@@ -2,6 +2,9 @@
 
 This is a basic web3 app with front end and metamask integration. 
 
+![image](https://github.com/hitesh09katoch/ETH_AVAX-PROOF_MOD2/assets/102655664/4c77429e-31c3-48b6-9693-dbf0e69a65a2)
+
+
 ## Description
 
 This app lets you connect your metamask wallet and transfer tokens in two ways. 
