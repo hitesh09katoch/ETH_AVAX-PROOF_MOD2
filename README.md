@@ -1,6 +1,22 @@
-# Starter Next/Hardhat Project
+# HITHEREUM
 
-After cloning the github, you will want to do the following to get the code running on your computer.
+This is a basic web3 app with front end and metamask integration. 
+
+## Description
+
+This app lets you connect your metamask wallet and transfer tokens in two ways. 
+
+1. Withdrawing tokens
+2. Deploying tokens
+
+It has a plushie shop where you can buy from a collection of 3 plushies ranging from 50 HETH to 2000 HETH. Buying these plushies is effectively withdrawing the tokens.
+
+If you have insufficient balance you can deposit the tokens into your app, which you can then use to buy plushies. 
+
+
+## Getting Started
+
+### Executing program
 
 1. Inside the project directory, in the terminal type: npm i
 2. Open two additional terminals in your VS code
@@ -8,5 +24,18 @@ After cloning the github, you will want to do the following to get the code runn
 4. In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
 5. Back in the first terminal, type npm run dev to launch the front-end.
 
-After this, the project will be running on your localhost. 
-Typically at http://localhost:3000/
+   
+After this, the project will be running on your localhost. Typically at http://localhost:3000/
+
+## Help
+
+Make sure to connect your metamask wallet to the owner account of your deployed hardhat node.
+
+## Authors
+
+Hitesh Katoch
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
